@@ -8,6 +8,7 @@
         - prettytable (używane tylko do porównywania metod)
 
 
+
     Zawartość projektu:
     
     1) Euler.py
